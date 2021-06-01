@@ -23,6 +23,19 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "079cb1f03ff972b30401ed05623cbe92"
+    },
+    "skeleton": {
+      "Package": "skeleton",
+      "Version": "1.1.1",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "gtm19",
+      "RemoteRepo": "skeleton",
+      "RemoteSubdir": "subdir/subsubdir",
+      "RemoteRef": "master",
+      "RemoteSha": "2afe73403ceecc60c2f9502913e212c0ab66ba30",
+      "Hash": "7b33cfa6f863f9a289259d66194f8765"
     }
   }
 }
