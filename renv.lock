@@ -1,0 +1,28 @@
+{
+  "R": {
+    "Version": "4.0.5",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cran.rstudio.com"
+      },
+      {
+        "Name": "RSPM",
+        "URL": "http://localhost:4242/prod-internal/latest"
+      },
+      {
+        "Name": "uk_imperial",
+        "URL": "https://cran.ma.imperial.ac.uk"
+      }
+    ]
+  },
+  "Packages": {
+    "renv": {
+      "Package": "renv",
+      "Version": "0.13.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "079cb1f03ff972b30401ed05623cbe92"
+    }
+  }
+}
