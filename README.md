@@ -18,6 +18,7 @@ Run the following in the terminal
 ```bash
 git clone git@github.com:gtm19/subsub.renv.git
 cd subsub.renv
+Rscript -e "renv::restore()"
 ```
 
 # Attempt 1
