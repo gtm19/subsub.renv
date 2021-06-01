@@ -160,3 +160,11 @@ So we have the situation:
 * `devtools` install ✅
 
 WHY NOT BOTH?!
+
+## Cleanup
+
+Run the following in the terminal to clean up:
+
+```bash
+rm ../subsub.renv_0.0.0.9000.tar.gz
+```
